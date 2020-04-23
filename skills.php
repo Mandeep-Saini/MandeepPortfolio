@@ -10,8 +10,8 @@
 
      <meta name="keywords" content="Mean Stack Development, Responsive WebDesign, PHP Development, Android with Java, Javascript Coder">
     <meta name="description" content="Mandeep Saini - Freelancer Web developer and Designer. I have worked on various different technologies and tools to develop sites.">
-    <link rel="shortlink" href="">
-    <link rel="canonical" href="">
+   <link rel="shortlink" href="https://mandeepsaini.herokuapp.com/">
+    <link rel="canonical" href="https://mandeepsaini.herokuapp.com/">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/main.css">
