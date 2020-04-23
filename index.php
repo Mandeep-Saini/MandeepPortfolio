@@ -40,7 +40,7 @@
                     <h2><span class="contact">Web Developer</span></h2>
                 </div>
                 <h3>Hi I am a Web Developer and freelancer</h3>
-                <p> I am an ambitious and hardworking, talented with broad skills and experience in Web Designing and social media projects.Result Oriented Software Engineer comfortable switching between architecture, design and implementation. Comfortable working in teams or in self-directed environment. Hire me today to develop or design your new responsive, mobile friendly and fast website.</p>
+                <p> I am a hardworking, Web Developer comfortable switching between architecture, design and implementation. Comfortable working in teams or in self-directed environment. Hire me today to develop or design your new responsive, mobile friendly website.</p>
                 <h3><i class="fa fa-university w3-xlarge"></i>&nbsp;&nbsp;Education</h3>
                 <p>&nbsp;&nbsp;POST GRADUATE DIPLOMA IN WEB DESIGN AND DEVELOPMENT CONESTOGA COLLEGE</p>
                 <h3><i class="fa fa-briefcase w3-xlarge"></i>&nbsp;&nbsp;Experience</h3>
